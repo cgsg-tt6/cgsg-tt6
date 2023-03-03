@@ -10,6 +10,7 @@ My name is Troitskaya Tamara, 18 y.o., ITMO University's student.
 click here to see the projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgsg-tt6&theme=prussian&repo=itmo)](https://github.com/cgsg-tt6/itmo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgsg-tt6&theme=prussian&repo=test-tasks)](https://github.com/cgsg-tt6/test-tasks)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cgsg-tt6&line_height=20&theme=prussian)](https://git.io/streak-stats)
 
