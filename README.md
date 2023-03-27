@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Troitskaya Tamara, 18 y.o., ITMO University's student.
 
-- 🔭 I’m currently working on a test task to GoLang Camp. And trying to make my Github account better.
-- 🌱 I’m currently learning how to work with sounds in Java.
+- 🔭 I’m currently working on itmo >> laba 5 (Java) (28.03.2023). Fun fact: it has taken me 34 hours already and it is the biggest project of mine so far... (I guess so)
+- 🌱 I’m going to study algorithms soon...
 - 📫 How to reach me: telegram ```@ttoomat```
 
 ## ITMO
