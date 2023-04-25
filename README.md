@@ -1,17 +1,14 @@
 ### Hi there 👋
 My name is Troitskaya Tamara, 18 y.o., ITMO University's student.
 
-- 🔭 I’ve just done: itmo >> laba 5 (Java) (13.04.2023). Fun fact: it has taken me 50 hours and it is probably the biggest project of mine so far... 
-- 🌱 I’m going to study algorithms soon...
-- 📫 How to reach me: telegram ```@ttoomat```
+ 📫 How to reach me: telegram ```@ttoomat```
 
-## ITMO
-
-click here to see these projects:
+## Click here to see these projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgsg-tt6&theme=prussian&repo=itmo)](https://github.com/cgsg-tt6/itmo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgsg-tt6&theme=prussian&repo=test-tasks)](https://github.com/cgsg-tt6/test-tasks)
 
+## Some statistics
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cgsg-tt6&line_height=20&theme=prussian)](https://git.io/streak-stats)
 
 
