@@ -1,30 +1,47 @@
 ### Hi there 👋
-My name is Troitskaya Tamara, 18 y.o., ITMO University's student.
+My name is Tamara T., 18 y.o., ITMO University's student.
 
  📫 How to reach me: telegram ```@ttoomat```
 
+# ITMO
+
+I store all the laboratory works in https://github.com/cgsg-tt6ITMO/
+
+<details><summary>1st semester</summary>
+
+### Java
+- [Laba 3-4](https://github.com/cgsg-tt6ITMO/s1-java-lab3)
+### Diskra
+* [Huffman](https://github.com/cgsg-tt6ITMO/s1-diskra-Huffman)
+
+
+</details>
+
+<details open><summary>2nd semester</summary>
+
+### Java
+- [Laba 5](https://github.com/cgsg-tt6ITMO/s2-java-lab5/)
+- [Laba 6](https://github.com/cgsg-tt6ITMO/s2-java-lab6/)
+- [Laba 7](https://github.com/cgsg-tt6ITMO/s2-java-lab7/)
+</details>
+
+
+<!--
 ## Click here to see these projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgsg-tt6&theme=prussian&repo=itmo)](https://github.com/cgsg-tt6/itmo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgsg-tt6&theme=prussian&repo=test-tasks)](https://github.com/cgsg-tt6/test-tasks)
 
-## Some statistics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cgsg-tt6&line_height=20&theme=prussian)](https://git.io/streak-stats)
-
-
-<!--
-**cgsg-tt6/cgsg-tt6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-It's 24.02.2023, 2:16 now. I want to study more since this moment
 -->
+## My statistics
+
+Github
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cgsg-tt6)](https://git.io/streak-stats)
+
+Leetcode
+
+|![LeetCode Stats](https://leetcard.jacoblin.cool/troitskayatamara?theme=prussian)|
+
+My codeforces account: https://codeforces.com/profile/troitskayatamara
+
