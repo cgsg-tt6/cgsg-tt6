@@ -35,10 +35,6 @@ I store all the laboratory works in https://github.com/cgsg-tt6ITMO/
 -->
 ## My statistics
 
-Github
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cgsg-tt6)](https://git.io/streak-stats)
-
 Leetcode
 
 |![LeetCode Stats](https://leetcard.jacoblin.cool/troitskayatamara?theme=prussian)|
